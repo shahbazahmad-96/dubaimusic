@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "666cb4dc41c42fdf9bea905e"
+  },
+  "name": "Singers",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666cd6172befe2939b8d0e2b"
+  },
+  "name": "Band",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666deb888cc6c0d6403926d5"
+  },
+  "name": "Trending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f6f2138a6e3fd175744b1"
+  },
+  "name": "DJ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667e75dfbfe6bc1b6e087158"
+  },
+  "name": "Wedding Packages",
+  "__v": 0
+}]
